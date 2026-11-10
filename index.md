@@ -3,6 +3,6 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Lights Out: A Dark Stalker Rom-Com](ebook/Lights%20Out-%20A%20Dark%20Stalker%20Rom-Com%20--%20Navessa%20Allen%20--%20(%20WeLib.org%20).pdf) - Navessa Allen (2024)
-2. Contoh buku lain
+2. [Harry Potter and the Sorcerer's Stone](ebook/Harry%20Potter%20and%20the%20Sorcerers%20Stone%20--%20by%20J.K.%20Rowling%20--%20(%20WeLib.org%20).pdf) - J.K. Rowling (1998)
 ---
 Powered by GitHub Pages
